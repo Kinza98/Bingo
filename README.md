@@ -4,7 +4,7 @@ Bingo is a popular number-matching game played on a grid—usually 5×5—filled
 # Bingo with AI
 This is a minimum 2-player game. In this project, one Bingo card is for the user and the other is for the AI.
 
-#How It Works
+# How It Works
 
 - Each player has a 5×5 card filled with random numbers from 1 to 25.
 
