@@ -292,4 +292,13 @@ span.set, span.set{
   .welcome span{
     font-size: 28px;
   }
+  .result div {
+    font-size: 25px;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .result div {
+    font-size: 20px;
+  }
 }
